@@ -1,0 +1,12 @@
+{
+  "agents": {
+    "research_bot": {
+      "model": "default_mock_v1",
+      "current_context_name": "project_alpha_notes",
+      "contexts": {
+        "project_alpha_notes": "/Users/user/Documents/Projects/SentioCP/sentiocp-cli/notes.txt"
+      }
+    }
+  },
+  "active_agent": "research_bot"
+}
